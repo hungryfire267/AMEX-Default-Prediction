@@ -1,2 +1,2 @@
-# AMEX---Default-Prediction
+# AMEX: Default-Prediction
 A Kaggle Competition
